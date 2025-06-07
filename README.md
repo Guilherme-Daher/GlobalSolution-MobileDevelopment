@@ -49,7 +49,7 @@ O **FaltaEnergiaApp** é um protótipo de aplicativo móvel (React Native + Expo
 ### Clonar o repositório e instalar dependências
 
 - ```bash
-- git clone <URL_DO_REPOSITORIO>
+- git clone (https://github.com/Guilherme-Daher/GlobalSolution-MobileDevelopment.git)
 - cd FaltaEnergiaApp
 - npm install
 
